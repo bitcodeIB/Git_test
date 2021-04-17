@@ -1,0 +1,48 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #3c415c;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #3c415c;
+  cursor: pointer;
+}
+
+
+
+.container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  max-width: 900px;
+  background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+}
+
+.row {
+  padding-top: 20px;
+}
+
+.weather {
+  padding-bottom: 30px;
+}
+.actual-temperature {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.search-icon {
+  font-size: 30px;
+  color: a#0a043c;
+}
+
+.main-icon {
+  font-size: 50px;
+}
+
+
+
